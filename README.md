@@ -1,3 +1,3 @@
-# Noom
+# Zoom
 
-Implementing Zoom using NodeJS, WebRTC and Websockets.
+Trying something fun using NodeJS, WebRTC and Websockets (SocketIO).
